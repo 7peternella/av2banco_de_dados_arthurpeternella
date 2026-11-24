@@ -1,6 +1,6 @@
 # AV2 Banco de Dados
 
-**Aluno ou dupla:** __________________________________
+**Aluno ou dupla:** Arthur Peternella
 
 ## Cenário escolhido
 
